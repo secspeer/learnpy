@@ -1,7 +1,7 @@
 print('Fill the details to know how long you have been alive for..')
 name= input('Name: ')
 print('What is your age',(name),'?')
-age=int(input('age: '))
+age=int(input('Age: '))
 
 days=age*365
 hour=age*8760
